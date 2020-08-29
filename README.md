@@ -5,11 +5,13 @@
 
 *********************************
 # Research Subjects
+- [x] Data Science
+
 - [x] Natural Language Processing 
 
 - [x] Computer Vision
 
-- [x] Data Science
+
 
 *********************************
 # 🚀 Skills
