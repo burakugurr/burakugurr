@@ -14,7 +14,7 @@
 *********************************
 # 🚀 Skills
 
-*********************************
+
 
 ![python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![r](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
