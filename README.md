@@ -1,4 +1,4 @@
-# Hello My Name is Burak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, My Name is Burak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🤔 I am interested AI.  
 - 👨🏽‍💻 Currently ı am learning, working and growing my skillset in machine learning. 
