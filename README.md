@@ -40,5 +40,6 @@
 
 *********************************
 # 📊 Statistics
-![Burak's github stats](https://github-readme-stats.vercel.app/api?username=burakugurr&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=burakugurr)
 
+![Burak's github stats](https://github-readme-stats.vercel.app/api?username=burakugurr&show_icons=true&theme=tokyonight)
