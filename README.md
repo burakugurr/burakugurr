@@ -4,7 +4,7 @@
 - 👨🏽‍💻 Currently ı am learning, working and growing my skillset in machine learning. 
 
 *********************************
-# Research Subjects
+# Research Topics
 - [x] Data Science
 
 - [x] Natural Language Processing 
