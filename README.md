@@ -42,9 +42,11 @@
 *********************************
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-
-
-
+- [NewSQL Nedir?](https://burakugur.medium.com/newsql-nedir-9a249eb044ce?source=rss-aad1280b942f------2)
+- [Sınıflandırma Metrikleri F2 Score ve Diğerleri](https://burakugur.medium.com/s%C4%B1n%C4%B1fland%C4%B1rma-metrikleri-f2-score-ve-di%C4%9Ferleri-a212e350fbf4?source=rss-aad1280b942f------2)
+- [Streamlit İle Web App Oluşturma](https://burakugur.medium.com/streamlit-i%CC%87le-web-app-olu%C5%9Fturma-68ca6324a864?source=rss-aad1280b942f------2)
+- [Makine Öğrenmesinde Güvenlik](https://burakugur.medium.com/makine-%C3%B6%C4%9Frenmesinde-g%C3%BCvenlik-82f0130d11f5?source=rss-aad1280b942f------2)
+- [Girişimici Ruhu Sizinle Mi?](https://burakugur.medium.com/giri%C5%9Fimici-ruhu-sizinle-mi-81b86c43eebc?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
