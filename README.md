@@ -1,11 +1,63 @@
-# Hello, My Name is Burak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Burak....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
  
 - 👨🏽‍💻 Currently i'm learning and working on machine learning. 
 - ⚡ Fun fact: I love blogging, reading books, and drawing
+- 🎓 I graduated from Hacettepe University Department of Statistics
+
 
 
 *********************************
+<h3 align="left">Languages and Tools: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="49px"></h3>
+
+Language:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+
+
+Cloud Tech:
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+
+
+Database:
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+Other:
+
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+
+
+</p>
+
+
+*********************************
+# 🌐 To connect with me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/burak-u%C4%9Fur/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@burakugur)
+[<img src="https://img.shields.io/badge/Web Site-Link-blue"/>](https://burakugurr.github.io/)
+[![](https://img.shields.io/twitter/follow/burakugur?style=social)](https://www.twitter.com/bburakuugur)
+*********************************
+
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
 - [NewSQL Nedir?](https://burakugur.medium.com/newsql-nedir-9a249eb044ce?source=rss-aad1280b942f------2)
@@ -16,36 +68,36 @@
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
-# 🚀 Skills
-
-
-
-![python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
-![r](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
-![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![sql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg" alt="scala" width="40" height="40"/>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakugurr)](https://github.com/anuraghazra/github-readme-stats)
-*********************************
-# 🌐 To connect with me
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/burak-u%C4%9Fur/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@burakugur)
-[<img src="https://img.shields.io/badge/Web Site-Link-blue"/>](https://burakugurr.github.io/)
-[![](https://img.shields.io/twitter/follow/burakugur?style=social)](https://www.twitter.com/bburakuugur)
-*********************************
-
-
-*********************************
 # 📊 Statistics
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakugurr)](https://git.io/streak-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=burakugurr)
 
-![Burak's github stats](https://github-readme-stats.vercel.app/api?username=burakugurr&show_icons=true&theme=tokyonight)
+<details>
+  <summary>:zap: Detail Stats </summary>
+ 
+  ![Burak's github stats](https://github-readme-stats.vercel.app/api?username=burakugurr&show_icons=true&theme=tokyonight)
+ 
+ <img src="https://activity-graph.herokuapp.com/graph?username=burakugurr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ 
+</details>
+
+<details>
+  <summary>:zap: Top Languages </summary>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakugurr)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</details>
+  
+<details>
+ <summary>:zap: Random Dev Jokes </summary>
+ 
+ <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>
+ 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+ 
+</details>
+
+
+
