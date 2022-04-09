@@ -39,6 +39,10 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@burakugur)
 [<img src="https://img.shields.io/badge/Web Site-Link-blue"/>](https://burakugurr.github.io/)
 [![](https://img.shields.io/twitter/follow/burakugur?style=social)](https://www.twitter.com/bburakuugur)
+*********************************
+# 📚 Latest Medium Story
+
+
 
 *********************************
 # 📊 Statistics
