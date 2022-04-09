@@ -15,7 +15,7 @@
 
 
 *********************************
-<h3 align="left">Languages and Tools: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="49px"></h3>
+<h1 align="left"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="49px"> Languages and Tools</h1>
 
 Language:
 
