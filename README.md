@@ -9,8 +9,8 @@
 </h1>
  
 - 👨🏽‍💻 Currently i'm learning and working on machine learning. 
-- ⚡ Fun fact: I love blogging, reading books, and drawing
-- 🎓 I graduated from Hacettepe University Department of Statistics
+- ⚡ Fun fact: I love blogging, reading books.
+- 🎓 I graduated from Hacettepe University Department of Statistics.
 
 
 
