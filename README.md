@@ -1,6 +1,9 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -17,40 +20,43 @@
 *********************************
 <h1 align="left"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="49px"> Languages and Tools</h1>
 
-Language:
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+**Language**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=Cplusplus)
 
 
-Cloud Tech:
+**Cloud Tech**
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 
-
-Database:
+**Database**
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-Other:
+**Other**
 
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 
 </p>
 
 
 *********************************
-# 🌐 To connect with me
+<h1 align="left"><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="49px"> To connect with me </h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/burak-u%C4%9Fur/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@burakugur)
@@ -76,28 +82,29 @@ Other:
 <details>
   <summary>:zap: Detail Stats </summary>
  
-  ![Burak's github stats](https://github-readme-stats.vercel.app/api?username=burakugurr&show_icons=true&theme=tokyonight)
- 
- <img src="https://activity-graph.herokuapp.com/graph?username=burakugurr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  ![Burak's github stats](https://github-readme-stats.vercel.app/api?username=burakugurr&show_icons=true&theme=codeSTACKr)
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=burakugurr&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  
 </details>
 
 <details>
   <summary>:zap: Top Languages </summary>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakugurr)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakugurr&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
  
 </details>
   
 <details>
  <summary>:zap: Random Dev Jokes </summary>
  
- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>
- 
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+ <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
  
 </details>
+
+
+
 
 
 
