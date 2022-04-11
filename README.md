@@ -5,12 +5,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Burak....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Burak;I'm+Jr.Data+Scientist...;Nice+to+meet+you!&center=true&size=30&font=Rubik+Glitch">
   </a>
 </h1>
  
+
+<!-- Vidaloka -->
+
 - 👨🏽‍💻 Currently i'm learning and working on machine learning. 
 - ⚡ Fun fact: I love blogging, reading books.
 - 🎓 I graduated from Hacettepe University Department of Statistics.
