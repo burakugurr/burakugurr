@@ -102,8 +102,9 @@
 <details>
  <summary>:zap: Random Dev Jokes </summary>
  
- <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
+ <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>
+  
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in?quoteCategory=programming)
  
 </details>
 
