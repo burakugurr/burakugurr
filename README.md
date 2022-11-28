@@ -16,7 +16,7 @@
 <!-- Vidaloka -->
 
 - 👨🏽‍💻 Currently i'm learning and working on machine learning. 
-- ⚡ Fun fact: I love blogging, reading books.
+- ⚡ Fun fact: I love blogging
 - 🎓 I graduated from Hacettepe University Department of Statistics.
 
 
