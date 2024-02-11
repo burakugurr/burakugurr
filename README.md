@@ -30,31 +30,33 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
-![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=Cplusplus)
-
-
-**Cloud Tech**
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 
 **Database**
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-**Other**
+**Data Tools**
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Spark" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![](https://img.shields.io/badge/NiFi-017081?style=flat&logo=apache-nifi&logoColor=white)
+![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![](https://img.shields.io/badge/Hadoop-DAA520?style=flat&logo=hadoop&logoColor=white)
+
+**Cloud Tech & VCS & Infrastructure & Monitoring**
+
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 </p>
 
@@ -103,8 +105,6 @@
  <summary>:zap: Random Dev Jokes </summary>
  
  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%236C8BC9&qColor=%23ffffff&aColor=%23455A64&borderColor=%23455A64" alt="README Jokes"></a>
-  
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=chartreuse-dark&animation=grow_out_in&quoteCategory=programming&font=Redressed&layout=churchill)
  
 </details>
 
