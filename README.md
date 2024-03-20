@@ -72,11 +72,11 @@
 
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Kafka + NiFi + Clickhouse in Docker  PART-I](https://burakugur.medium.com/build-kafka-nifi-clickhouse-in-docker-part-i-45fa08ffb5e3?source=rss-aad1280b942f------2)
 - [MinIO: Yüksek Performanslı ve Ölçeklenebilir Nesne Depolama Çözümü](https://burakugur.medium.com/minio-y%C3%BCksek-performansl%C4%B1-ve-%C3%B6l%C3%A7eklenebilir-nesne-depolama-%C3%A7%C3%B6z%C3%BCm%C3%BC-0f550f27984c?source=rss-aad1280b942f------2)
 - [Uçtan Uca Apache Nifi Uygulaması](https://burakugur.medium.com/u%C3%A7tan-uca-apache-nifi-uygulamas%C4%B1-3f2e04ced49e?source=rss-aad1280b942f------2)
 - [Apache Nifi Nedir?](https://burakugur.medium.com/apache-nifi-nedir-f19111fb5802?source=rss-aad1280b942f------2)
 - [CDC: Veri Değişikliklerini Gerçek Zamanlı Olarak Yönetme Sanatı](https://burakugur.medium.com/cdc-veri-de%C4%9Fi%C5%9Fikliklerini-ger%C3%A7ek-zamanl%C4%B1-olarak-y%C3%B6netme-sanat%C4%B1-d3e3c4ed9bd5?source=rss-aad1280b942f------2)
-- [SQL Sorgularını Nasıl Optimize Edebiliriz?](https://burakugur.medium.com/sql-sorgular%C4%B1n%C4%B1-nas%C4%B1l-optimize-edebiliriz-cdcffc2edbd2?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
