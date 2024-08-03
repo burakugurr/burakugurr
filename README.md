@@ -72,11 +72,11 @@
 
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [How to Monitoring Apache Nifi ?](https://towardsdev.com/how-to-monitoring-apache-nifi-3164a06be7c2?source=rss-aad1280b942f------2)
 - [Kafka + NiFi + Clickhouse in Docker PART-II](https://towardsdev.com/kafka-nifi-clickhouse-in-docker-part-ii-41d1bda2df38?source=rss-aad1280b942f------2)
 - [Kafka + NiFi + Clickhouse in Docker  PART-I](https://towardsdev.com/build-kafka-nifi-clickhouse-in-docker-part-i-45fa08ffb5e3?source=rss-aad1280b942f------2)
 - [MinIO: Yüksek Performanslı ve Ölçeklenebilir Nesne Depolama Çözümü](https://burakugur.medium.com/minio-y%C3%BCksek-performansl%C4%B1-ve-%C3%B6l%C3%A7eklenebilir-nesne-depolama-%C3%A7%C3%B6z%C3%BCm%C3%BC-0f550f27984c?source=rss-aad1280b942f------2)
 - [Uçtan Uca Apache Nifi Uygulaması](https://burakugur.medium.com/u%C3%A7tan-uca-apache-nifi-uygulamas%C4%B1-3f2e04ced49e?source=rss-aad1280b942f------2)
-- [Apache Nifi Nedir?](https://burakugur.medium.com/apache-nifi-nedir-f19111fb5802?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
