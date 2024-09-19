@@ -72,7 +72,7 @@
 
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
-- [Create Data Lakehouse Using Spark+Iceberg+Nessie+Dremio](https://burakugur.medium.com/create-data-lakehouse-using-spark-iceberg-nessie-dremio-8d7a54855f13?source=rss-aad1280b942f------2)
+- [Create Data Lakehouse Using Spark+Iceberg+Nessie+Dremio](https://medium.com/towards-data-engineering/create-data-lakehouse-using-spark-iceberg-nessie-dremio-8d7a54855f13?source=rss-aad1280b942f------2)
 - [PX4 Drone Flight Log Analysis &amp; Data Pipeline PART-II](https://burakugur.medium.com/px4-drone-flight-log-analysis-data-pipeline-part-ii-d1f93fbc8f49?source=rss-aad1280b942f------2)
 - [PX4 Drone Flight Log Analysis &amp; Data Pipeline PART-I](https://towardsdev.com/px4-drone-flight-log-analysis-data-pipeline-part-i-292fe290a656?source=rss-aad1280b942f------2)
 - [How to Monitoring Apache Nifi ?](https://towardsdev.com/how-to-monitoring-apache-nifi-3164a06be7c2?source=rss-aad1280b942f------2)
