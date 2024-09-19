@@ -72,11 +72,11 @@
 
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [Create Data Lakehouse Using Spark+Iceberg+Nessie+Dremio](https://burakugur.medium.com/create-data-lakehouse-using-spark-iceberg-nessie-dremio-8d7a54855f13?source=rss-aad1280b942f------2)
 - [PX4 Drone Flight Log Analysis &amp; Data Pipeline PART-II](https://burakugur.medium.com/px4-drone-flight-log-analysis-data-pipeline-part-ii-d1f93fbc8f49?source=rss-aad1280b942f------2)
 - [PX4 Drone Flight Log Analysis &amp; Data Pipeline PART-I](https://towardsdev.com/px4-drone-flight-log-analysis-data-pipeline-part-i-292fe290a656?source=rss-aad1280b942f------2)
 - [How to Monitoring Apache Nifi ?](https://towardsdev.com/how-to-monitoring-apache-nifi-3164a06be7c2?source=rss-aad1280b942f------2)
 - [Kafka + NiFi + Clickhouse in Docker PART-II](https://towardsdev.com/kafka-nifi-clickhouse-in-docker-part-ii-41d1bda2df38?source=rss-aad1280b942f------2)
-- [Kafka + NiFi + Clickhouse in Docker  PART-I](https://towardsdev.com/build-kafka-nifi-clickhouse-in-docker-part-i-45fa08ffb5e3?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
