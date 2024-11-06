@@ -72,11 +72,11 @@
 
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [E2E Build Data Lakehouse with Reddit API &amp; Iceberg: Part 2](https://blog.det.life/e2e-build-data-lakehouse-with-reddit-api-iceberg-part-2-07dd18b804d4?source=rss-aad1280b942f------2)
+- [E2E Data Lakehouse Using Reddit API &amp; Airflow &amp; Kafka &amp; NiFi &amp; OpenSearch &amp; Minio &amp; Iceberg &amp;…](https://blog.det.life/e2e-data-lakehouse-using-reddit-api-airflow-kafka-nifi-opensearch-minio-iceberg-810eebc47757?source=rss-aad1280b942f------2)
 - [What’s Branch &amp; Tag in Apache Iceberg](https://towardsdev.com/whats-branch-tag-in-apache-iceberg-0f065aa2c8f4?source=rss-aad1280b942f------2)
 - [Create Data Lakehouse Using Spark+Iceberg+Nessie+Dremio](https://medium.com/towards-data-engineering/create-data-lakehouse-using-spark-iceberg-nessie-dremio-8d7a54855f13?source=rss-aad1280b942f------2)
 - [PX4 Drone Flight Log Analysis &amp; Data Pipeline PART-II](https://burakugur.medium.com/px4-drone-flight-log-analysis-data-pipeline-part-ii-d1f93fbc8f49?source=rss-aad1280b942f------2)
-- [PX4 Drone Flight Log Analysis &amp; Data Pipeline PART-I](https://towardsdev.com/px4-drone-flight-log-analysis-data-pipeline-part-i-292fe290a656?source=rss-aad1280b942f------2)
-- [How to Monitoring Apache Nifi ?](https://towardsdev.com/how-to-monitoring-apache-nifi-3164a06be7c2?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
