@@ -1,4 +1,6 @@
 
+![Profile Views](https://komarev.com/ghpvc/?username=burakugurr)
+
 <img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
 
 <p align="center">
@@ -32,22 +34,26 @@
 ![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=Scala)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
-**Database**
+**Database & DWH & S3**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-FF2020?style=for-the-badge&logo=minio&logoColor=white)
 
 **Data Tools**
 
 ![](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
 ![](https://img.shields.io/badge/NiFi-017081?style=flat&logo=apache-nifi&logoColor=white)
-![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 ![](https://img.shields.io/badge/Hadoop-DAA520?style=flat&logo=hadoop&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-00ADD8?style=for-the-badge&logo=apacheiceberg&logoColor=white)
+![Project Nessie](https://img.shields.io/badge/Project%20Nessie-009B77?style=for-the-badge&logo=projectnessie&logoColor=white)
 
 **Cloud Tech & VCS & Infrastructure & Monitoring**
 
@@ -83,7 +89,9 @@
 # 📊 Statistics
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakugurr)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=burakugurr)
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=burakugurr&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <details>
   <summary>:zap: Detail Stats </summary>
