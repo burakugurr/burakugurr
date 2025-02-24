@@ -78,11 +78,11 @@
 
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
+- [How To Convert Traditional Database To Lakehouse?](https://medium.com/towards-data-engineering/how-to-convert-traditional-database-to-lakehouse-d8a384ca92b5?source=rss-aad1280b942f------2)
 - [The Simplest Way to Implement CDC from PostgreSQL to S3 &lpar;MinIO&rpar;](https://blog.det.life/the-simplest-way-to-implement-cdc-from-postgresql-to-s3-minio-d17dbd13220c?source=rss-aad1280b942f------2)
 - [Change Data Capture &lpar;CDC&rpar;: Comprehensive Guide- PostgreSQL To S3&lpar;MinIO&rpar; Using NiFi](https://blog.det.life/change-data-capture-cdc-comprehensive-guide-postgresql-to-s3-minio-using-nifi-113ecda10ea3?source=rss-aad1280b942f------2)
 - [E2E Build Data Lakehouse with Reddit API &amp; Iceberg: Part 2](https://blog.det.life/e2e-build-data-lakehouse-with-reddit-api-iceberg-part-2-07dd18b804d4?source=rss-aad1280b942f------2)
 - [E2E Data Lakehouse Using Reddit API &amp; Airflow &amp; Kafka &amp; NiFi &amp; OpenSearch &amp; Minio &amp; Iceberg &amp;…](https://blog.det.life/e2e-data-lakehouse-using-reddit-api-airflow-kafka-nifi-opensearch-minio-iceberg-810eebc47757?source=rss-aad1280b942f------2)
-- [What’s Branch &amp; Tag in Apache Iceberg](https://towardsdev.com/whats-branch-tag-in-apache-iceberg-0f065aa2c8f4?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
