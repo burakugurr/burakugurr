@@ -79,10 +79,10 @@
 # 📚 Latest Medium Story
 <!-- MEDIUM-STORY-LIST:START -->
 - [How To Convert Traditional Database To Lakehouse?](https://medium.com/towards-data-engineering/how-to-convert-traditional-database-to-lakehouse-d8a384ca92b5?source=rss-aad1280b942f------2)
-- [The Simplest Way to Implement CDC from PostgreSQL to S3 &lpar;MinIO&rpar;](https://medium.com/data-engineer-things/the-simplest-way-to-implement-cdc-from-postgresql-to-s3-minio-d17dbd13220c?source=rss-aad1280b942f------2)
-- [Change Data Capture &lpar;CDC&rpar;: Comprehensive Guide- PostgreSQL To S3&lpar;MinIO&rpar; Using NiFi](https://medium.com/data-engineer-things/change-data-capture-cdc-comprehensive-guide-postgresql-to-s3-minio-using-nifi-113ecda10ea3?source=rss-aad1280b942f------2)
-- [E2E Build Data Lakehouse with Reddit API &amp; Iceberg: Part 2](https://medium.com/data-engineer-things/e2e-build-data-lakehouse-with-reddit-api-iceberg-part-2-07dd18b804d4?source=rss-aad1280b942f------2)
-- [E2E Data Lakehouse Using Reddit API &amp; Airflow &amp; Kafka &amp; NiFi &amp; OpenSearch &amp; Minio &amp; Iceberg &amp;…](https://medium.com/data-engineer-things/e2e-data-lakehouse-using-reddit-api-airflow-kafka-nifi-opensearch-minio-iceberg-810eebc47757?source=rss-aad1280b942f------2)
+- [The Simplest Way to Implement CDC from PostgreSQL to S3 &lpar;MinIO&rpar;](https://blog.dataengineerthings.org/the-simplest-way-to-implement-cdc-from-postgresql-to-s3-minio-d17dbd13220c?source=rss-aad1280b942f------2)
+- [Change Data Capture &lpar;CDC&rpar;: Comprehensive Guide- PostgreSQL To S3&lpar;MinIO&rpar; Using NiFi](https://blog.dataengineerthings.org/change-data-capture-cdc-comprehensive-guide-postgresql-to-s3-minio-using-nifi-113ecda10ea3?source=rss-aad1280b942f------2)
+- [E2E Build Data Lakehouse with Reddit API &amp; Iceberg: Part 2](https://blog.dataengineerthings.org/e2e-build-data-lakehouse-with-reddit-api-iceberg-part-2-07dd18b804d4?source=rss-aad1280b942f------2)
+- [E2E Data Lakehouse Using Reddit API &amp; Airflow &amp; Kafka &amp; NiFi &amp; OpenSearch &amp; Minio &amp; Iceberg &amp;…](https://blog.dataengineerthings.org/e2e-data-lakehouse-using-reddit-api-airflow-kafka-nifi-opensearch-minio-iceberg-810eebc47757?source=rss-aad1280b942f------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 *********************************
